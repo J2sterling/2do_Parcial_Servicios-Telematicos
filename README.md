@@ -152,7 +152,6 @@ lftp -e "set ftp:ssl-force true; set ssl:verify-certificate no;" -u ftpuser,ftpu
 
 # Segundo Punto
 
-# Segundo Punto
 
 Paso 1. Instalar BIND9
 
@@ -258,8 +257,7 @@ nslookup www.servicios.com 192.168.50.5
 
 # Tercer Punto
 
-# Configuración Exitosa de DNS sobre TLS (DoT)
-
+# Configuración de DNS sobre TLS (DoT)
 
 
 ---
